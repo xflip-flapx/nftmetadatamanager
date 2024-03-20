@@ -1,0 +1,28 @@
+{
+  "name": "nftmetadatamanager",
+  "version": "1.0.0",
+  "description": "Manage NFT metadata effectively with a tool for metadata management and organization.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xflip-flapx/nftmetadatamanager"
+  },
+  "author": "xflip-flapx",
+  "license": "MIT",
+  "dependencies": {
+    "nftmetadatamanager": "1.0.0",
+    "nftpricefetchertool": "1.0.0",
+    "enzyme": "1.0.0",
+    "debug": "1.0.0",
+    "truffle": "1.0.0",
+    "passport": "1.0.0",
+    "ethereumjs-tx": "1.0.0",
+    "react": "1.0.0",
+    "xml2js": "1.0.0",
+    "node-sass": "1.0.0",
+    "web3": "1.0.0"
+  }
+}
